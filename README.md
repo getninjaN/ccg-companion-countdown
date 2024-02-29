@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)](https://raw.githubusercontent.com/getninjan/ccg-companion-countdown/main/LICENSE)
 
 ## Introduction
-This is a NodeJS script that receives clip data over OSC from CasparCG Server and relays a countdown timecode it to a [Bitfocus Companion](https://bitfocus.io/companion) custom variable.
+This is a NodeJS script that receives clip data over OSC from CasparCG Server and relays a countdown timecode to a [Bitfocus Companion](https://bitfocus.io/companion) custom variable.
 
 The code is **HEAVILY** inspired by, some might say copied from [ccg-bitc](https://github.com/GuildTV/ccg-bitc). :heart:
 
