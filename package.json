@@ -1,0 +1,16 @@
+{
+  "name": "companion-casparcg-countdown",
+  "version": "0.1.0",
+  "description": "Relays OSC from CasparCG and sets a custom variable in Bitfocus Companion",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^4.1.0",
+    "osc": "^2.4.4"
+  }
+}
